@@ -1,0 +1,18 @@
+.favorites-container {
+  width: 100%;
+  padding: 2rem;
+}
+
+.favorites-list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.favorites-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
